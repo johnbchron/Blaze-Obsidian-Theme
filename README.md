@@ -1,3 +1,7 @@
+This theme is just an orange version of [`santiyounger/Wasp-Obsidian-Theme`](https://github.com/santiyounger/Wasp-Obsidian-Theme/)
+
+---
+
 This theme is currently made for dark mode, light mode is not yet customized.
 
 ## Dark Mode
