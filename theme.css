@@ -7,10 +7,10 @@
 
 .theme-dark
       {
---button-hover-bg-color: #DAA520; /* Darker Yellow Background for Hover */
---button-hover-text-color: #ffffff; /* White Text for Hover */
-      --button-bg-color: #D49335; /* Gray-Black Background */
-      --button-text-color: #242424; /* Light Gray Text */   
+      --button-hover-bg-color:      #d86720 /*#DAA520*/; /* Darker Yellow Background for Hover */
+      --button-hover-text-color:    #ffffff; /* White Text for Hover */
+      --button-bg-color:            #d37134 /*#D49335*/; /* Gray-Black Background */
+      --button-text-color:          #242424; /* Light Gray Text */   
       --background-primary:         #242424;
       --background-primary-alt:     #242424;
       --background-secondary:       #191919;
@@ -26,21 +26,21 @@
       --text-highlight-bg:          #640211;
       --text-link:                  #83a598; 
       --text-a-hover:               #83a598; 
-          --text-accent-hover:      #D49335;
+      --text-accent-hover:          #d37134 /*#D49335*/;
  /* ^^^ added for hover over bracket internal links */
       --inline-code:                #83a598; 
       --code-block:                 #83a598; 
-      --text-a:                     #f8c537; 
-      --interactive-accent:         #f8c537;
-      --text-accent:                #f8c537; 
+      --text-a:                     #f78036 /*#f8c537*/; 
+      --interactive-accent:         #f78036 /*#f8c537*/;
+      --text-accent:                #f78036 /*#f8c537*/; 
       --text-on-accent:             #fff;
-      --interactive-accent-rgb:     #f8c537; 
-      --vim-cursor:                 #f8c537; 
+      --interactive-accent-rgb:     #f78036 /*#f8c537*/; 
+      --vim-cursor:                 #f78036 /*#f8c537*/; 
       /*  --text-mark:                  add text-mark if needed, this should work together with 'mark' */
       --pre-code:                   #;
       --interactive-before:         #7c6f64;
-      --background-modifier-border: #f8c537;
-      --text-selection:            #f8c537;
+      --background-modifier-border: #f78036 /*#f8c537*/;
+      --text-selection:             #f78036 /*#f8c537*/;
       }
 
 .theme-dark .cm-s-obsidian span.obsidian-search-match-highlight {
